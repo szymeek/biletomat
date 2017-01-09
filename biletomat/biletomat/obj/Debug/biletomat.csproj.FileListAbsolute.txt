@@ -1,0 +1,6 @@
+c:\users\szymek\documents\visual studio 2015\Projects\biletomat\biletomat\bin\Debug\biletomat.exe.config
+c:\users\szymek\documents\visual studio 2015\Projects\biletomat\biletomat\obj\Debug\biletomat.csprojResolveAssemblyReference.cache
+c:\users\szymek\documents\visual studio 2015\Projects\biletomat\biletomat\bin\Debug\biletomat.exe
+c:\users\szymek\documents\visual studio 2015\Projects\biletomat\biletomat\bin\Debug\biletomat.pdb
+c:\users\szymek\documents\visual studio 2015\Projects\biletomat\biletomat\obj\Debug\biletomat.exe
+c:\users\szymek\documents\visual studio 2015\Projects\biletomat\biletomat\obj\Debug\biletomat.pdb
